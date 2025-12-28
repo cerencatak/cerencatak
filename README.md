@@ -1,17 +1,17 @@
-# 💫 About Me:
+# About Me:
 **Hacettepe University | Geomatics Engineering | Geospatial Developer**
 
 I am a Geomatics Engineering student who creates solutions at the intersection of data and location. I combine traditional cartography with modern software practices, developing projects in **Web GIS**, spatial data mining, and process automation. Driven by a passion for understanding the world through data, I transform static maps into living, interactive, and analyzable digital systems.
 
 ---
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ceren-çatak) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cerencatak@hacettepe.edu.tr) 
 
 ---
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![PostGIS](https://img.shields.io/badge/PostGIS-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-%23199903.svg?style=for-the-badge&logo=leaflet&logoColor=white)
 ![OpenLayers](https://img.shields.io/badge/OpenLayers-%23215692.svg?style=for-the-badge&logo=openlayers&logoColor=white)
@@ -33,7 +33,7 @@ I am a Geomatics Engineering student who creates solutions at the intersection o
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cerencatak&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=cerencatak&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cerencatak&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
